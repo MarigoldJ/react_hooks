@@ -1,0 +1,27 @@
+{
+  "name": "@jeonys_hooks/use-title",
+  "version": "1.0.1",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarigoldJ/react_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "title",
+    "hooks"
+  ],
+  "author": "Yusang Jeon <yusang0130@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarigoldJ/react_hooks/issues"
+  },
+  "homepage": "https://github.com/MarigoldJ/react_hooks#readme",
+  "peerdependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
